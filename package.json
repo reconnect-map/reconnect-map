@@ -1,0 +1,15 @@
+{
+  "name": "re-connect",
+  "version": "1.0.0",
+  "description": "Map for Re-Connect event",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn serve ./build"
+  },
+  "author": "Shane Mckenna",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
